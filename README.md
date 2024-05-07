@@ -1,6 +1,9 @@
 ## Auto-PCOS-Classification
 PCOS Classification with Attention Maps and Deep Learning Models! 🌟 Our advanced approach precisely identifies PCOS indicators in medical images, boasting remarkable accuracy. Through attention map visualization, we unveil the main weights detected by our pretrained model, offering unparalleled insights into diagnosis.
  
+## Dataset Sample
+![image](https://github.com/Priyanshu-Ganwani09/Auto-PCOS-Classification/assets/96206037/9c666d76-6166-48b7-931f-1dfe69225d91)
+
 
 
 ## Workflow of Deep-learning Model
